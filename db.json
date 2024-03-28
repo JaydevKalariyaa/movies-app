@@ -41,6 +41,46 @@
       "trailor": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
     },
     {
+      "id": "201",
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "rating": 8.9109375,
+      "poster": "https://www.edgroom.com/uploads/blogs/202310071805064792540_38983_u23h.jpg",
+      "trailor": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    {
+      "id": "200",
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "rating": 8.9109375,
+      "poster": "https://www.edgroom.com/uploads/blogs/202310071805064792540_38983_u23h.jpg",
+      "trailor": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    },
+    {
       "id": "126",
       "title": "The Shawshank Redemption",
       "year": 1994,
@@ -961,6 +1001,42 @@
       "name": "jk3",
       "email": "jaydev@gmail.com",
       "password": "12345678"
+    },
+    {
+      "name": "jk",
+      "email": "jk5@gmail.com",
+      "password": "123",
+      "id": "seqPWG2"
+    },
+    {
+      "name": "jk",
+      "email": "jk6@gmail.com",
+      "password": "123",
+      "id": "Uju3ofu"
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "123",
+      "id": "LKLo40_"
+    },
+    {
+      "name": "abc2",
+      "email": "abc2@gmail.com",
+      "password": "123",
+      "id": "QHlgfM1"
+    },
+    {
+      "name": "dgfh",
+      "email": "ab@gmail.com",
+      "password": "123",
+      "id": "XZfcz-8"
+    },
+    {
+      "name": "def",
+      "email": "def@gmail.com",
+      "password": "123",
+      "id": "StkN1pC"
     }
   ]
 }
